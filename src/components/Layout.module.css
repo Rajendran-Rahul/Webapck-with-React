@@ -1,0 +1,15 @@
+.pullRight {
+  display: flex;
+  justify-content: center;
+}
+
+.heading1 {
+  margin-top: 10px !important;
+  margin-bottom: 20px !important;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
